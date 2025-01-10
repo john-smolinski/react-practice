@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "description": "A novel about the serious issues of rape and racial inequality."
+    },
+    {
+      "id": 2,
+      "title": "1984",
+      "author": "George Orwell",
+      "description": "A dystopian social science fiction novel and cautionary tale about the dangers of totalitarianism."
+    },
+    {
+      "id": 3,
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "description": "A story about Captain Ahab's obsessive quest to kill the white whale, Moby Dick."
+    },
+    {
+      "id": 4,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "description": "A romantic novel that charts the emotional development of the protagonist, Elizabeth Bennet."
+    },
+    {
+      "id": 5,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "description": "A novel that critiques the disillusionment and moral decay of society during the Roaring Twenties."
+    },
+    {
+      "id": 6,
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "description": "A historical novel that tells the story of five families against the backdrop of the Napoleonic Wars."
+    },
+    {
+      "id": 7,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "description": "A novel about the challenges of teenage life and the pain of growing up."
+    },
+    {
+      "id": 8,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "description": "A fantasy novel about the adventures of Bilbo Baggins, a hobbit who embarks on a quest to win a share of the treasure guarded by Smaug the dragon."
+    },
+    {
+      "id": 9,
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "description": "A novel about the mental anguish and moral dilemmas of an impoverished ex-student who plans and commits a murder."
+    },
+    {
+      "id": 10,
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "description": "An epic fantasy novel that follows the quest to destroy the One Ring and defeat the Dark Lord Sauron."
+    }
+  ]
+  
