@@ -1,0 +1,66 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+/node_modules
+/.pnp
+.pnp.js
+
+# Build output
+/build
+
+# Cache and temporary files
+/.cache
+/.next
+/out
+/temp
+/temp/**
+/.vscode
+/.idea
+.DS_Store
+
+# Static files
+*.log
+*.tmp
+*.gz
+*.map
+
+# Coverage reports
+/coverage
+*.lcov
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# macOS system files
+.DS_Store
+
+# IDE files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Package files
+package-lock.json
+yarn.lock
+
+# React Native files (if applicable)
+/android
+/ios
+*.iml
